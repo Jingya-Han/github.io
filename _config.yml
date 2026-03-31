@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+#title                    : "Jingya Han"
 title_separator          : "-"
 name                     : &name "Jingya Han"
 description              : &description "Jingya Han's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "Jingya-Han/Jingya-Han.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jingya Han"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD candidate studying Atmospheric Sciences"
+  location         : "Ithaca"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jh2423@cornell.edu" 
 
   # Academic websites
   academia         : # URL
