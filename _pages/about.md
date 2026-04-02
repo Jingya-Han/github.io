@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jingya. I am now a PhD candidate in Atmospheric Sciences at Cornell University. I am interested in studying precipitation.
+Hi! I am Jingya Han. I am now a PhD candidate in Atmospheric Sciences at Cornell University. I am interested in studying precipitation.
 
 My journey into precipitation research began with a moment of curiosity during my undergraduate studies at Northeast Normal University, when a course on global environmental change first exposed me to the profound societal impacts of extreme rainfall. Motivated by both scientific intrigue and real-world consequences, I initiated my first research project as an undergraduate, leading a team to investigate changes in extreme precipitation across dry and wet regions of China. Through this experience, I developed my foundation in data analysis, coding, and scientific writing, ultimately publishing my first first-author paper—an experience that solidified my commitment to climate research.
 
