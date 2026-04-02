@@ -23,7 +23,7 @@ repository               : "Jingya-Han/Jingya-Han.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "iy.png"
+  avatar           : "iy_resized.jpg"
   name             : "Jingya Han"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate studying Atmospheric Sciences"
